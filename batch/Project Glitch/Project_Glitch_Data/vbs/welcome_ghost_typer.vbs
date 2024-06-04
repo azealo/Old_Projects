@@ -1,0 +1,53 @@
+set wshshell = wscript.CreateObject("wScript.Shell")
+ wshshell.run "Notepad"
+ wscript.sleep 400
+ wshshell.sendkeys "W"
+ wscript.sleep 100
+ wshshell.sendkeys "e"
+ wscript.sleep 120
+ wshshell.sendkeys "l"
+ wscript.sleep 200
+ wshshell.sendkeys "c"
+ wscript.sleep 100
+ wshshell.sendkeys "o"
+ wscript.sleep 140
+ wshshell.sendkeys "m"
+ wscript.sleep 100
+ wshshell.sendkeys "e"
+ wscript.sleep 50
+ wshshell.sendkeys " "
+ wscript.sleep 120
+ wshshell.sendkeys "t"
+ wscript.sleep 170
+ wshshell.sendkeys "o"
+ wscript.sleep 100
+ wshshell.sendkeys " "
+ wscript.sleep 120
+ wshshell.sendkeys "P"
+ wscript.sleep 160
+ wshshell.sendkeys "r"
+ wscript.sleep 200
+ wshshell.sendkeys "o"
+ wscript.sleep 100
+ wshshell.sendkeys "j"
+ wscript.sleep 160
+ wshshell.sendkeys "e"
+ wscript.sleep 160
+ wshshell.sendkeys "c"
+ wscript.sleep 160
+ wshshell.sendkeys "t"
+ wscript.sleep 160 
+ wshshell.sendkeys " "
+ wscript.sleep 160
+ wshshell.sendkeys "G"
+ wscript.sleep 160
+ wshshell.sendkeys "l"
+ wscript.sleep 160
+ wshshell.sendkeys "i"
+ wscript.sleep 160
+ wshshell.sendkeys "t"
+ wscript.sleep 160
+ wshshell.sendkeys "c"
+ wscript.sleep 160
+ wshshell.sendkeys "h"
+ wscript.sleep 160

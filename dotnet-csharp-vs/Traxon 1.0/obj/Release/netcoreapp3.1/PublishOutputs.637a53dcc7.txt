@@ -1,0 +1,5 @@
+C:\Traxon\Traxon 1.0\Traxon 1.0.exe
+C:\Traxon\Traxon 1.0\Traxon 1.0.dll
+C:\Traxon\Traxon 1.0\Traxon 1.0.deps.json
+C:\Traxon\Traxon 1.0\Traxon 1.0.runtimeconfig.json
+C:\Traxon\Traxon 1.0\Traxon 1.0.pdb
